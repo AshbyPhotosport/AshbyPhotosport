@@ -1,1 +1,0 @@
-docs/FILE_STRUCTURE.md
